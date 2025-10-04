@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MindPin</string>
+    <string name="notification_channel_name">MindPin Notes</string>
+    <string name="notification_channel_description">Add notes quickly from notification</string>
+    <string name="notification_add_note">Add note</string>
+    <string name="notification_open_app">Open MindPin</string>
+    <string name="notification_mark_done">Mark reminder done</string>
+</resources>

@@ -1,0 +1,1 @@
+# MindPin proguard rules
