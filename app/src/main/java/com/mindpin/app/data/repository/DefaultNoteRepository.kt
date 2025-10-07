@@ -13,6 +13,7 @@ import com.mindpin.app.model.Note
 import com.mindpin.app.model.NoteSort
 import com.mindpin.app.model.Tag
 import com.mindpin.app.reminder.ReminderScheduler
+import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
 class DefaultNoteRepository(
